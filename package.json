@@ -1,0 +1,16 @@
+{
+  "name": "first-electron-app",
+  "version": "1.0.0",
+  "description": "My first electron App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Lucas Chebat",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^18.2.4",
+    "path": "^0.12.7"
+  }
+}
